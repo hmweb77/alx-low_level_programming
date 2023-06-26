@@ -7,7 +7,7 @@
 */
 int _strlen(char *s)
 {
-	int count 
+	int count; 
 	count = 0;
 
 	while(s[count])
